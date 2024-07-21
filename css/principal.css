@@ -1,0 +1,26 @@
+
+body{
+    width: 100%;
+}
+
+.fondocaja {
+    width: 95%;
+    height: 90%;
+    background-color: #f0f0f0; /* Un blanco no puro */
+    border: 5px solid #222F41;
+    border-radius: 10px;
+    display: flex;
+}
+
+.sidebar {
+    width: 25px;
+    background-color: #222F41;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.contenido {
+    width: 95%;
+    padding: 20px;
+}
